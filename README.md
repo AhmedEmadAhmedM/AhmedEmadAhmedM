@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AhmedEmadAhmedMohammed
 - 👀 I’m interested in Embedded Systems
-- 🌱 I’m currently learning embedded Systems
-- 💞️ I’m looking to collaborate on Embedded projects
+- 🌱 I’m currently learning embedded System 
 - 📫 How to reach me ahmed.zidan.77777@gmail.com
 
 <!---
